@@ -1,4 +1,4 @@
-# Back Razor
+# Back Razor: Memory-Efficient Transfer Learning by Self-Sparsified Backpropogation
 
 ## Introduction
 Transfer learning from the model trained on large datasets to customized downstream tasks has been widely used 
