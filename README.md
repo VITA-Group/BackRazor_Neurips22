@@ -64,6 +64,9 @@ cd ..
 ## Running Cmds
 Can be found in [cmds](cmds) directory
 
+## Lanuage Modeling and Segmentation Experiments
+Refer [BackRazor_Bert]() and [BackRazor_Seg]()
+
 ## Acknowledge
 The partial code of this implement comes from [TinyTL](https://github.com/mit-han-lab/tinyml/tree/master/tinytl), [Mesa](https://github.com/zip-group/Mesa) and [ViT-pytorch](https://github.com/jeonsworld/ViT-pytorch)
 
